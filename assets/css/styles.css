@@ -180,6 +180,7 @@ img {
 /*=== Show menu ===*/
 .show {
   right: 0;
+  background-color: var(--third-color);
 }
 
 /*===== HOME =====*/
