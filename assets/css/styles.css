@@ -366,6 +366,11 @@ img {
   font-size: var(--smaller-font-size);
 }
 
+.footer__contact{
+  margin-bottom: var(--mb-4);
+  text-align: center;
+}
+
 /* ===== MEDIA QUERIES=====*/
 @media screen and (max-width: 320px) {
   .home {
