@@ -327,6 +327,20 @@ img {
   transform: scale(1.1);
 }
 
+.work__card{
+  padding: 20px;
+}
+
+.work__text{
+  margin-bottom: var(--mb-4);
+  padding: 10px;
+}
+
+.work__title{
+  margin-bottom: 10px;
+  padding: 12px;
+}
+
 
 /* ===== CONTACT =====*/
 .contact__input {
